@@ -31,7 +31,7 @@ msgstr "Cancelar"
 #. module: sale_cancel_reason
 #: model_terms:ir.ui.view,arch_db:sale_cancel_reason.view_order_form
 msgid "Cancel Order"
-msgstr ""
+msgstr "Cancelar Pedido"
 
 #. module: sale_cancel_reason
 #: model_terms:ir.ui.view,arch_db:sale_cancel_reason.view_order_form
